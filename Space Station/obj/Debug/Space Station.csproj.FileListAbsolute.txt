@@ -1,0 +1,41 @@
+C:\Users\Jeremy\source\repos\Space Station\bin\Debug\Space Station.exe.config
+C:\Users\Jeremy\source\repos\Space Station\bin\Debug\Space Station.exe
+C:\Users\Jeremy\source\repos\Space Station\bin\Debug\Space Station.pdb
+C:\Users\Jeremy\source\repos\Space Station\obj\Debug\Space Station.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\Space Station\obj\Debug\Space_Station.Main.resources
+C:\Users\Jeremy\source\repos\Space Station\obj\Debug\Space_Station.Properties.Resources.resources
+C:\Users\Jeremy\source\repos\Space Station\obj\Debug\Space Station.csproj.GenerateResource.cache
+C:\Users\Jeremy\source\repos\Space Station\obj\Debug\Space Station.exe
+C:\Users\Jeremy\source\repos\Space Station\obj\Debug\Space Station.pdb
+C:\Users\Jeremy\source\repos\Space Station\bin\Debug\Space Station.exe.manifest
+C:\Users\Jeremy\source\repos\Space Station\bin\Debug\Space Station.application
+C:\Users\Jeremy\source\repos\Space Station\obj\Debug\Space Station.exe.manifest
+C:\Users\Jeremy\source\repos\Space Station\obj\Debug\Space Station.application
+C:\Users\jengleman\source\repos\Space Station\bin\Debug\Space Station.exe.config
+C:\Users\jengleman\source\repos\Space Station\bin\Debug\Space Station.exe.manifest
+C:\Users\jengleman\source\repos\Space Station\bin\Debug\Space Station.application
+C:\Users\jengleman\source\repos\Space Station\bin\Debug\Space Station.exe
+C:\Users\jengleman\source\repos\Space Station\bin\Debug\Space Station.pdb
+C:\Users\jengleman\source\repos\Space Station\obj\Debug\Space_Station.Properties.Resources.resources
+C:\Users\jengleman\source\repos\Space Station\obj\Debug\Space Station.csproj.GenerateResource.cache
+C:\Users\jengleman\source\repos\Space Station\obj\Debug\Space Station.csproj.CoreCompileInputs.cache
+C:\Users\jengleman\source\repos\Space Station\obj\Debug\Space Station.exe.manifest
+C:\Users\jengleman\source\repos\Space Station\obj\Debug\Space Station.application
+C:\Users\jengleman\source\repos\Space Station\obj\Debug\Space Station.exe
+C:\Users\jengleman\source\repos\Space Station\obj\Debug\Space Station.pdb
+C:\Users\jengleman\source\repos\Space Station\obj\Debug\Space Station.csprojAssemblyReference.cache
+C:\Users\jengleman\source\repos\Space Station\obj\Debug\Space_Station.GameForm.resources
+C:\Users\wells\source\repos\Space Station\bin\Debug\Space Station.exe.config
+C:\Users\wells\source\repos\Space Station\bin\Debug\Space Station.exe.manifest
+C:\Users\wells\source\repos\Space Station\bin\Debug\Space Station.application
+C:\Users\wells\source\repos\Space Station\bin\Debug\Space Station.exe
+C:\Users\wells\source\repos\Space Station\bin\Debug\Space Station.pdb
+C:\Users\wells\source\repos\Space Station\obj\Debug\Space Station.csprojAssemblyReference.cache
+C:\Users\wells\source\repos\Space Station\obj\Debug\Space_Station.GameForm.resources
+C:\Users\wells\source\repos\Space Station\obj\Debug\Space_Station.Properties.Resources.resources
+C:\Users\wells\source\repos\Space Station\obj\Debug\Space Station.csproj.GenerateResource.cache
+C:\Users\wells\source\repos\Space Station\obj\Debug\Space Station.exe.manifest
+C:\Users\wells\source\repos\Space Station\obj\Debug\Space Station.application
+C:\Users\wells\source\repos\Space Station\obj\Debug\Space Station.exe
+C:\Users\wells\source\repos\Space Station\obj\Debug\Space Station.pdb
+C:\Users\wells\source\repos\Space Station\obj\Debug\Space Station.csproj.CoreCompileInputs.cache
